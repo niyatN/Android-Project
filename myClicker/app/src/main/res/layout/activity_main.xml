@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32dp"
+        android:text="My Click Count"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="123dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:id="@+id/textViewCount"
+        android:textSize="32dp"
+
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+        android:text="CLICK UP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonClick"
+        android:background="@color/colorAccent"
+        android:layout_alignBaseline="@+id/buttonClickDown"
+        android:layout_alignBottom="@+id/buttonClickDown"
+        android:layout_alignStart="@+id/textView" />
+
+    <Button
+        android:text="CLICK DOWN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonClickDown"
+        android:background="@color/colorAccent"
+        android:layout_marginStart="28dp"
+        android:layout_above="@+id/buttonReset"
+        android:layout_toEndOf="@+id/textViewCount"
+        android:layout_marginBottom="14dp" />
+
+    <Button
+        android:text="RESET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonReset"
+        android:background="@color/colorAccent"
+        android:layout_marginBottom="29dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/textView"
+        android:layout_marginEnd="50dp" />
+
+
+
+</RelativeLayout>
