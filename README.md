@@ -3,8 +3,11 @@
 App has three button<br/>
 When cilck + button it increase the count<br/>
 When click - button it decrease the count<br/>
-When click RESET button it set count 0<br/>
+When click RESET button it set count 0
 
+![alt text](https://github.com/niyatN/Android-Project/blob/master/myClicker/ScreenShot/1.png)
+![alt text](https://github.com/niyatN/Android-Project/blob/master/myClicker/ScreenShot/2.png)
+![alt text](https://github.com/niyatN/Android-Project/blob/master/myClicker/ScreenShot/3.png)
 
 # HttpReq
 
