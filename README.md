@@ -22,8 +22,8 @@ Processing: Varify register number(Using regular expression) and fetch the mac a
 <p align="center">
   <img src="https://github.com/niyatN/Android-Project/blob/master/HttpReq/ScreenShot/Screenshot%20from%202018-04-21%2017-52-12.png" width="350"/>
   <img src="https://github.com/niyatN/Android-Project/blob/master/HttpReq/ScreenShot/Screenshot%20from%202018-04-21%2017-52-53.png" width="350"/>
-  <img src="https://github.com/niyatN/Android-Project/blob/master/HttpReq/ScreenShot/Screenshot%20from%202018-04-21%2017-52-29.png" width="350"/>
-  <img src="https://github.com/niyatN/Android-Project/blob/master/HttpReq/ScreenShot/Screenshot%20from%202018-04-21%2017-52-56.png" width="350"/>
+  <img src="https://github.com/niyatN/Android-Project/blob/master/HttpReq/ScreenShot/Screenshot%20from%202018-04-21%2017-53-29.png" width="350"/>
+  <img src="https://github.com/niyatN/Android-Project/blob/master/HttpReq/ScreenShot/Screenshot%20from%202018-04-21%2017-53-56.png" width="350"/>
 </p>
 
 
