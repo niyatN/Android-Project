@@ -31,3 +31,8 @@ Processing: Varify register number(Using regular expression) and fetch the mac a
 
 Enter the some query word and submit it.<br/>
 app will fetch all the releted content from the git hub public repository
+
+<p align="center">
+  <img src="https://github.com/niyatN/Android-Project/blob/master/Practice-GitHub%20Query_Udacity/ScreenShot/1.png" width="350"/>
+  <img src="https://github.com/niyatN/Android-Project/blob/master/Practice-GitHub%20Query_Udacity/ScreenShot/2.png" width="350"/>
+  </p>
